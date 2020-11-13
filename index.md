@@ -4,16 +4,29 @@
 
 ### Category Name 1 
 
-[Bins Bar & Kitchen](/sample_page)
-<img src="images/binsbar.png"/>
+[Bins Bar & Kitchen](/binsbar)(November 2020)
+* CLion with HTML, CSS, JavaScript, JQuery, and Bootstrap framework
+* UI/UX Design
+
+<img src="images/binsbar.png?raw=true"/>
 
 ---
-[Dashboard Application](/pdf/sample_presentation.pdf)
-<img src="images/dashboard.png"/>
+[Dashboard Application](/dashboard)(May 2020)
+* Qt with C++
+* OpenWeatherMap API and Bing Map API (HTTP Request)
+* Database Management
+* Open/Read External File
+
+<img src="images/dashboard.png?raw=true"/>
 
 ---
-[Dialer Application](http://example.com/)
-<img src="images/dialer.png"/>
+[Dialer Application](http://example.com/)(May 2020)
+* Qt with C++
+*	State machine implementation for a quick tic-tac-toe game
+*	Implementation of the Model-View-Controller pattern
+*	UI/UX Design with theme of Cat vs Dog for attractiveness
+
+<img src="images/dialer.png?raw=true"/>
 
 ---
 
