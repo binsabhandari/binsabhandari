@@ -4,16 +4,16 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Bins Bar & Kitchen](/sample_page)
+<img src="images/binsbar.png"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Dashboard Application](/pdf/sample_presentation.pdf)
+<img src="images/dashboard.png"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Dialer Application](http://example.com/)
+<img src="images/dialer.png"/>
 
 ---
 
