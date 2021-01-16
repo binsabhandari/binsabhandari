@@ -18,3 +18,11 @@ Figure 3
 <br/>
 <img src="images/BB&K Drinks menu.png?raw=true"/>
 <br/>
+Figure 4
+<br/>
+<img src="images/BB&K Contact.png?raw=true"/>
+<br/>
+Figure 5
+<br/>
+<img src="images/payonline.png?raw=true"/>
+<br/>
