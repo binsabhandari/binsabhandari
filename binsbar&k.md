@@ -8,13 +8,13 @@
 
 Figure 1
 <br/>
-<img src="images/binsbar.PNG?raw=true"/>
+<img src="images/binsbar.png?raw=true"/>
 <br/>
 Figure 2
 <br/>
-<img src="images/BB&K food menu.PNG?raw=true"/>
+<img src="images/BB&K food menu.png?raw=true"/>
 <br/>
 Figure 3
 <br/>
-<img src="images/BB&K Drinks menu.PNG?raw=true"/>
+<img src="images/BB&K Drinks menu.png?raw=true"/>
 <br/>
