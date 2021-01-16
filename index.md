@@ -4,7 +4,7 @@
 
 ### Personal Projects 
 
-### [Bins Bar & Kitchen](/binsbar) (November 2020)
+### [Bins Bar & Kitchen](/binsbar&k) (November 2020)
 * CLion with HTML, CSS, JavaScript, JQuery, and Bootstrap framework
 * UI/UX Design
 
