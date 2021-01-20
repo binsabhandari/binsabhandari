@@ -15,6 +15,7 @@
 * Qt with C++
 * OpenWeatherMap API and Bing Map API (HTTP Request)
 * Database Management
+* UI/UX Design
 * Open/Read External File
 
 <img src="images/dashboard.png?raw=true"/>
@@ -24,16 +25,17 @@
 
 ### [Resort Reservation](/reservation) (May 2020)
 * Qt with C++
-* Database Management
+* UI/UX Design
+* Abstract data type (ADT) for application software
+* GUI programming
 
 <img src="images/HR window.png?raw=true"/>
 
 ---
 ### [Dialer Application](http://example.com/) (May 2020)
 * Qt with C++
-*	Implementaion of phone book with contact name and phone number
 * Open/Read External File
-*	UI/UX Design with theme of Apple Iphone dialer application for attractiveness
+*	UI/UX Design 
 
 <img src="images/dialer.png?raw=true"/>
 
