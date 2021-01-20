@@ -18,7 +18,10 @@
 * Open/Read External File
 
 <img src="images/dashboard.png?raw=true"/>
+
+
 ---
+
 ### [Resort Reservation](/resortreservation) (May 2020)
 * Qt with C++
 * Database Management
