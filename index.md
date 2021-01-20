@@ -11,13 +11,6 @@
 <img src="images/binsbar.png?raw=true"/>
 
 ---
-### [Resort Reservation](/resortreservation) (May 2020)
-* Qt with C++
-* Database Management
-
-<img src="images/HR window.png?raw=true"/>
-
----
 ### [Dashboard Application](/dashboard) (June 2020)
 * Qt with C++
 * OpenWeatherMap API and Bing Map API (HTTP Request)
@@ -26,7 +19,7 @@
 
 <img src="images/dashboard.png?raw=true"/>
 ---
-### [Resort Reservation](/reservation) (May 2020)
+### [Resort Reservation](/resortreservation) (May 2020)
 * Qt with C++
 * Database Management
 
