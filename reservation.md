@@ -8,3 +8,14 @@
 - Abstract data type (ADT) for application software
 - GUI programming
 
+Figure 1
+<br/>
+<img src="images/HR window.png?raw=true"/>
+<br/>
+Figure 2
+<br/>
+<img src="images/HR payment.png?raw=true"/>
+<br/>
+Figure 3
+<br/>
+<img src="images/HR confirmation.png?raw=true"/>
