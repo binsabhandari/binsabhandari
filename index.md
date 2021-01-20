@@ -18,8 +18,7 @@
 <img src="images/HR window.png?raw=true"/>
 
 ---
----
-### [Dashboard Application](/dashboard) (May 2020)
+### [Dashboard Application](/dashboard) (June 2020)
 * Qt with C++
 * OpenWeatherMap API and Bing Map API (HTTP Request)
 * Database Management
