@@ -14,7 +14,7 @@ Figure 1
 <br/>
 Figure 2
 <br/>
-<img src="images/HR payment.png?raw=true"/>
+<img src="images/DB payment.png?raw=true"/>
 <br/>
 Figure 3
 <br/>
