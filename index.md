@@ -22,7 +22,7 @@
 
 ---
 
-### [Resort Reservation](/resortreservation) (May 2020)
+### [Resort Reservation](/reservation) (May 2020)
 * Qt with C++
 * Database Management
 
