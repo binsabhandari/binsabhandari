@@ -2,6 +2,9 @@
 
 **Project description:** This is a presentation of Bins Bar & Kitchen website. Bins Bar & Kitchen is a indian resturant website, where customers can view menu options, find contact information, and pay online. Figure 1 is the main page of the website, and it shows the diffrent pages customers can navigate to. Figure 2 & 3 are the menu options. There are two seperate menus for food and drinks. Figure 4 is a place where customers can send questions or comments.  Figure 5 is where customers can pay for foods and drinks they've ordered. 
 
+<a href="https://aqueous-oasis-65905.herokuapp.com/restaurant/index.html">View Bins Bar & Kitchen Website</a> 
+<br/>
+
 **Skills**  
 - HTML, CSS, and Bootstrap framework
 - Front-end
