@@ -32,7 +32,7 @@
 <img src="images/HR window.png?raw=true"/>
 
 ---
-### [Dialer Application](http://example.com/) (May 2020)
+### [Dialer Application](/dialer) (May 2020)
 * Qt with C++
 * Open/Read External File
 *	UI/UX Design 
