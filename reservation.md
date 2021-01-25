@@ -6,7 +6,6 @@
 - Qt with C++
 - UI/UX Design  
 - Abstract data type (ADT) for application software
-- GUI programming
 
 Figure 1
 <br/>
