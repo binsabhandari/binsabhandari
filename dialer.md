@@ -5,5 +5,4 @@
 **Skills**
 - Qt with C++
 - UI/UX Design  
-- Data Management
 - Open/Read files
