@@ -3,7 +3,7 @@
 ---
 ### Design Projects 
 
-### [Patha](/binsbar&k) (July 2021)
+### [Patha](/patha) (July 2021)
 * UI/UX Design
 * High Fidetility Prototype
 * Mockup Prototype
