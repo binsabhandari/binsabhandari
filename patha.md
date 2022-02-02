@@ -19,3 +19,12 @@ Figure 2
 <br/>
 <img src="images/PathaPrototype.png?raw=true"/>
 <br/>
+
+<br/>
+<video width="500px" height="500px" 
+        controls="controls"/> 
+          
+        <source src="images/PathaVideo.mov" 
+            type="video/mov"> 
+    </video> 
+ <br/>
