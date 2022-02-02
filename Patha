@@ -1,16 +1,21 @@
 ## Patha (Figma)
 
-**Project description:** This is a presentation of . On this website,
-customers can view menu options, find BB&K's contact information, learn about the history of BB&K, and pay 
-for their order online. Figure 1 is the main page of the website and it shows the different pages customers can navigate through. 
-Figure 2 is the food menu and Figure 3 is the drinks menu. Figure 4 is a place where customers can send questions or comments 
-to the resturant.  Figure 5 is where customers can pay for food and drinks they've ordered. 
+**Project description:** This is a presentation of my design process for our mobile application, Patha. Our idea was to 
+build a mobile application that allows for trading and selling of plants within our local communities, interaction 
+within plant communities, identifying plants, and subscription to relevant and educational plant content. A screenshot of the 
+mockup presented to my team members is shown in Figure 1. A screenshot of the high-fidelity prototype of Patha is shown in Figure 3
 
 
 **Skills**  
-- HTML, CSS, and Bootstrap framework
+- High Fedility Prototyping 
+- Wireframing
 
 Figure 1
 <br/>
-<img src="images/binsbar.png?raw=true"/>
+<img src="images/PathaMockup.png?raw=true"/>
+<br/>
+
+Figure 2
+<br/>
+<img src="images/PathaPrototype.png?raw=true"/>
 <br/>
