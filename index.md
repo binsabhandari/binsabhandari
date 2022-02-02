@@ -3,12 +3,12 @@
 ---
 ### Design Projects 
 
-### [Bins Bar & Kitchen](/binsbar&k) (November 2020)
+### [Patha](/binsbar&k) (July 2021)
 * UI/UX Design
 * High Fidetility Prototype
 * Mockup Prototype
 
-<img src="images/pathafigma.png?raw=true"/>
+<img src="images/PathaDemo.png?raw=true"/>
 
 ---
 
