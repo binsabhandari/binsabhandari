@@ -1,6 +1,16 @@
 ## Portfolio
 
 ---
+### Design Projects 
+
+### [Bins Bar & Kitchen](/binsbar&k) (November 2020)
+* UI/UX Design
+* High Fidetility Prototype
+* Mockup Prototype
+
+<img src="images/pathafigma.png?raw=true"/>
+
+---
 
 ### Personal Projects 
 
